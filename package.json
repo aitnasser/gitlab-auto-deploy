@@ -1,0 +1,26 @@
+{
+  "name": "gitlab-auto-deploy",
+  "version": "1.0.0",
+  "description": "{",
+  "main": "\": \"Automate the deployment of your applications deposed in gitlab.\",",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitnasser/gitlab-auto-deploy.git"
+  },
+  "keywords": [
+    "gitlab",
+    "webhooks"
+  ],
+  "author": "aitnasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitnasser/gitlab-auto-deploy/issues"
+  },
+  "homepage": "https://github.com/aitnasser/gitlab-auto-deploy#readme",
+  "dependencies": {
+    "gitlabhook": "0.0.17"
+  }
+}
